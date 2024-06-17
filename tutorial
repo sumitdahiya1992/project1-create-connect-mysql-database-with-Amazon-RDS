@@ -1,0 +1,21 @@
+Create and Connect to a MySQL Database with Amazon RDS
+TUTORIAL
+
+implementation
+
+1.Create a MYSQL DB Instance  
+STEPS
+2.Download a SQL Client
+DOWNLOAD LINK
+
+https://dev.mysql.com/downloads/workbench/
+SELECT OPERATING WINDOW
+download DEB file
+
+3.Connect to the MySQL Databasse
+
+connect using username and password
+make sure inbound rule is active default port 3306
+
+4.Delete the DB Instance
+
